@@ -1,0 +1,501 @@
+booking_id,customer_id,booking_date,departure_date,origin,destination,route,booking_channel,trip_type,customer_type,loyalty_tier,passengers,base_fare_sar,ancillary_revenue_sar,total_revenue_sar,lead_time_days,repeat_customer,lead_time_band
+B00001,C0121,2025-05-24,2025-08-02,JED,CAI,JED-CAI,Website,One-way,Leisure,Basic,1,660,109,769,70,Yes,46–90 days
+B00002,C0243,2025-06-16,2025-08-18,JED,CAI,JED-CAI,Website,Return,Visiting friends and relatives,Basic,1,599,145,744,63,Yes,46–90 days
+B00003,C0103,2025-05-29,2025-07-05,RUH,TBS,RUH-TBS,Online Travel Agency,One-way,Leisure,Basic,3,2147,179,2326,37,Yes,22–45 days
+B00004,C0024,2025-04-10,2025-05-19,RUH,IST,RUH-IST,Online Travel Agency,One-way,Business,Silver,2,1499,177,1676,39,Yes,22–45 days
+B00005,C0020,2025-07-23,2025-07-25,RUH,DXB,RUH-DXB,Mobile App,Return,Visiting friends and relatives,Gold,3,2167,469,2636,2,Yes,1–7 days
+B00006,C0046,2025-04-02,2025-05-13,DMM,JED,DMM-JED,Travel Agent,Return,Leisure,Basic,2,607,151,758,41,Yes,22–45 days
+B00007,C0292,2025-04-26,2025-05-18,RUH,DXB,RUH-DXB,Online Travel Agency,Return,Business,No membership,2,1114,94,1208,22,No,22–45 days
+B00008,C0142,2025-11-06,2025-12-02,RUH,DXB,RUH-DXB,Website,One-way,Leisure,Gold,3,1637,180,1817,26,Yes,22–45 days
+B00009,C0064,2025-06-13,2025-08-23,JED,DMM,JED-DMM,Mobile App,Return,Visiting friends and relatives,No membership,1,306,112,418,71,Yes,46–90 days
+B00010,C0169,2025-08-02,2025-08-30,DXB,RUH,DXB-RUH,Website,One-way,Leisure,Basic,2,959,135,1094,28,Yes,22–45 days
+B00011,C0059,2025-08-27,2025-11-23,RUH,IST,RUH-IST,Travel Agent,Return,Leisure,Basic,2,1815,154,1969,88,Yes,46–90 days
+B00012,C0227,2025-04-14,2025-05-02,DMM,JED,DMM-JED,Mobile App,Return,Visiting friends and relatives,No membership,3,1023,281,1304,18,Yes,8–21 days
+B00013,C0018,2025-12-22,2026-02-10,RUH,JED,RUH-JED,Website,One-way,Visiting friends and relatives,Basic,2,580,171,751,50,Yes,46–90 days
+B00014,C0277,2025-12-26,2026-02-05,RUH,JED,RUH-JED,Mobile App,One-way,Leisure,Basic,3,795,325,1120,41,Yes,22–45 days
+B00015,C0201,2025-09-25,2025-12-16,JED,DMM,JED-DMM,Online Travel Agency,Return,Leisure,No membership,3,826,239,1065,82,No,46–90 days
+B00016,C0169,2025-12-17,2026-02-18,JED,RUH,JED-RUH,Website,One-way,Leisure,Basic,1,250,100,350,63,Yes,46–90 days
+B00017,C0052,2025-12-03,2025-12-11,IST,RUH,IST-RUH,Website,One-way,Leisure,No membership,3,2859,315,3174,8,Yes,8–21 days
+B00018,C0309,2025-11-29,2025-12-03,RUH,DXB,RUH-DXB,Mobile App,One-way,Leisure,Gold,2,1368,302,1670,4,Yes,1–7 days
+B00019,C0012,2025-10-26,2025-11-20,CAI,JED,CAI-JED,Mobile App,Return,Business,Silver,2,1103,164,1267,25,Yes,22–45 days
+B00020,C0292,2025-08-16,2025-10-02,RUH,IST,RUH-IST,Online Travel Agency,One-way,Visiting friends and relatives,Silver,1,794,162,956,47,Yes,46–90 days
+B00021,C0230,2025-11-25,2026-01-21,DMM,JED,DMM-JED,Website,Return,Leisure,No membership,1,289,67,356,57,No,46–90 days
+B00022,C0205,2025-05-21,2025-07-27,DMM,JED,DMM-JED,Mobile App,Return,Visiting friends and relatives,Gold,2,598,340,938,67,Yes,46–90 days
+B00023,C0052,2025-08-12,2025-08-25,RUH,IST,RUH-IST,Mobile App,One-way,Leisure,Silver,2,1673,250,1923,13,Yes,8–21 days
+B00024,C0021,2025-07-05,2025-08-15,RUH,TBS,RUH-TBS,Online Travel Agency,One-way,Leisure,Basic,3,2388,329,2717,41,Yes,22–45 days
+B00025,C0095,2025-03-05,2025-05-04,DXB,RUH,DXB-RUH,Website,One-way,Leisure,Basic,1,505,49,554,60,Yes,46–90 days
+B00026,C0155,2025-11-30,2026-02-03,RUH,JED,RUH-JED,Website,One-way,Leisure,No membership,3,755,309,1064,65,Yes,46–90 days
+B00027,C0262,2025-04-20,2025-07-12,JED,DMM,JED-DMM,Mobile App,One-way,Visiting friends and relatives,Basic,1,305,74,379,83,Yes,46–90 days
+B00028,C0226,2025-07-03,2025-09-25,CAI,JED,CAI-JED,Mobile App,Return,Business,Silver,2,1160,134,1294,84,Yes,46–90 days
+B00029,C0031,2025-07-13,2025-09-01,DXB,RUH,DXB-RUH,Website,Return,Leisure,Basic,1,493,53,546,50,Yes,46–90 days
+B00030,C0291,2025-12-21,2026-02-26,JED,CAI,JED-CAI,Mobile App,Return,Business,No membership,1,676,76,752,67,No,46–90 days
+B00031,C0168,2025-02-06,2025-02-27,CAI,JED,CAI-JED,Online Travel Agency,Return,Leisure,Gold,3,2078,232,2310,21,Yes,8–21 days
+B00032,C0237,2025-05-03,2025-07-16,JED,DMM,JED-DMM,Online Travel Agency,Return,Leisure,No membership,2,572,119,691,74,No,46–90 days
+B00033,C0309,2025-06-12,2025-07-05,RUH,IST,RUH-IST,Travel Agent,Return,Leisure,Basic,1,896,108,1004,23,Yes,22–45 days
+B00034,C0268,2025-09-26,2025-09-29,DXB,RUH,DXB-RUH,Mobile App,One-way,Leisure,Silver,3,1963,376,2339,3,Yes,1–7 days
+B00035,C0208,2025-07-11,2025-07-16,IST,RUH,IST-RUH,Website,Return,Leisure,Basic,1,1037,109,1146,5,Yes,1–7 days
+B00036,C0029,2025-06-17,2025-07-16,RUH,DXB,RUH-DXB,Website,One-way,Leisure,No membership,1,468,96,564,29,Yes,22–45 days
+B00037,C0153,2025-10-13,2025-11-29,DMM,JED,DMM-JED,Mobile App,Return,Business,No membership,1,294,69,363,47,Yes,46–90 days
+B00038,C0107,2025-02-01,2025-02-19,RUH,IST,RUH-IST,Online Travel Agency,Return,Leisure,No membership,3,2715,232,2947,18,Yes,8–21 days
+B00039,C0028,2025-10-03,2025-11-21,RUH,JED,RUH-JED,Website,Return,Business,Basic,2,549,78,627,49,Yes,46–90 days
+B00040,C0110,2025-05-24,2025-06-28,JED,RUH,JED-RUH,Mobile App,One-way,Leisure,No membership,1,267,121,388,35,Yes,22–45 days
+B00041,C0218,2025-11-17,2026-02-15,TBS,RUH,TBS-RUH,Mobile App,Return,Leisure,Basic,1,724,68,792,90,Yes,46–90 days
+B00042,C0180,2025-10-04,2025-12-17,DXB,RUH,DXB-RUH,Mobile App,One-way,Leisure,Basic,1,533,121,654,74,Yes,46–90 days
+B00043,C0144,2025-11-09,2026-01-26,JED,RUH,JED-RUH,Mobile App,Return,Leisure,Silver,1,272,59,331,78,Yes,46–90 days
+B00044,C0294,2025-02-07,2025-04-14,TBS,RUH,TBS-RUH,Website,One-way,Business,Basic,3,2287,155,2442,66,Yes,46–90 days
+B00045,C0327,2025-03-29,2025-04-27,RUH,IST,RUH-IST,Website,One-way,Leisure,Basic,2,1675,183,1858,29,Yes,22–45 days
+B00046,C0160,2025-02-16,2025-03-07,RUH,IST,RUH-IST,Online Travel Agency,One-way,Leisure,Silver,1,849,130,979,19,Yes,8–21 days
+B00047,C0257,2025-03-20,2025-03-23,JED,DMM,JED-DMM,Mobile App,One-way,Leisure,No membership,3,1019,294,1313,3,No,1–7 days
+B00048,C0123,2025-10-25,2025-10-28,CAI,JED,CAI-JED,Website,Return,Leisure,Silver,4,3378,286,3664,3,Yes,1–7 days
+B00049,C0130,2025-05-26,2025-08-22,CAI,JED,CAI-JED,Mobile App,One-way,Visiting friends and relatives,No membership,1,645,136,781,88,Yes,46–90 days
+B00050,C0199,2025-01-15,2025-02-19,RUH,TBS,RUH-TBS,Mobile App,Return,Visiting friends and relatives,Silver,1,694,129,823,35,Yes,22–45 days
+B00051,C0294,2025-12-24,2026-01-01,IST,RUH,IST-RUH,Mobile App,Return,Leisure,Basic,3,2628,233,2861,8,Yes,8–21 days
+B00052,C0118,2025-06-12,2025-08-13,IST,RUH,IST-RUH,Mobile App,Return,Visiting friends and relatives,Basic,2,1484,123,1607,62,Yes,46–90 days
+B00053,C0301,2025-12-27,2026-03-09,IST,RUH,IST-RUH,Mobile App,One-way,Business,Gold,2,1444,110,1554,72,Yes,46–90 days
+B00054,C0104,2025-02-02,2025-03-27,RUH,DXB,RUH-DXB,Mobile App,Return,Leisure,Basic,2,883,171,1054,53,Yes,46–90 days
+B00055,C0268,2025-07-27,2025-09-18,JED,RUH,JED-RUH,Online Travel Agency,Return,Leisure,Silver,2,572,139,711,53,Yes,46–90 days
+B00056,C0288,2025-04-28,2025-05-21,JED,RUH,JED-RUH,Website,One-way,Visiting friends and relatives,No membership,2,518,284,802,23,No,22–45 days
+B00057,C0234,2025-02-24,2025-04-11,JED,CAI,JED-CAI,Website,Return,Visiting friends and relatives,No membership,1,673,74,747,46,No,46–90 days
+B00058,C0311,2025-08-07,2025-09-20,JED,CAI,JED-CAI,Website,Return,Visiting friends and relatives,Basic,3,1882,403,2285,44,Yes,22–45 days
+B00059,C0326,2025-04-10,2025-06-22,RUH,DXB,RUH-DXB,Website,One-way,Visiting friends and relatives,No membership,1,470,95,565,73,No,46–90 days
+B00060,C0152,2025-09-21,2025-09-25,RUH,JED,RUH-JED,Mobile App,One-way,Visiting friends and relatives,Silver,3,945,373,1318,4,Yes,1–7 days
+B00061,C0237,2025-02-11,2025-02-12,IST,RUH,IST-RUH,Mobile App,Return,Leisure,No membership,1,1129,89,1218,1,Yes,1–7 days
+B00062,C0001,2025-11-19,2025-12-24,DXB,RUH,DXB-RUH,Online Travel Agency,One-way,Leisure,Basic,1,560,119,679,35,Yes,22–45 days
+B00063,C0310,2025-06-11,2025-08-06,RUH,IST,RUH-IST,Mobile App,One-way,Visiting friends and relatives,Basic,1,749,87,836,56,Yes,46–90 days
+B00064,C0218,2025-09-17,2025-10-30,JED,CAI,JED-CAI,Website,One-way,Leisure,Basic,1,658,53,711,43,Yes,22–45 days
+B00065,C0057,2025-10-26,2025-11-14,JED,CAI,JED-CAI,Online Travel Agency,One-way,Business,Basic,2,1396,124,1520,19,Yes,8–21 days
+B00066,C0157,2025-08-27,2025-11-24,RUH,DXB,RUH-DXB,Travel Agent,One-way,Visiting friends and relatives,Basic,1,527,126,653,89,Yes,46–90 days
+B00067,C0197,2025-12-20,2026-03-20,RUH,JED,RUH-JED,Website,One-way,Visiting friends and relatives,Basic,1,272,106,378,90,Yes,46–90 days
+B00068,C0328,2025-07-22,2025-10-08,TBS,RUH,TBS-RUH,Website,Return,Leisure,Basic,1,755,89,844,78,Yes,46–90 days
+B00069,C0248,2025-08-19,2025-09-26,CAI,JED,CAI-JED,Website,Return,Visiting friends and relatives,No membership,4,2664,294,2958,38,No,22–45 days
+B00070,C0066,2025-09-12,2025-10-18,JED,DMM,JED-DMM,Mobile App,One-way,Leisure,No membership,2,548,244,792,36,Yes,22–45 days
+B00071,C0190,2025-04-30,2025-06-29,RUH,JED,RUH-JED,Travel Agent,One-way,Leisure,Basic,3,926,246,1172,60,Yes,46–90 days
+B00072,C0191,2025-12-27,2026-02-10,JED,RUH,JED-RUH,Mobile App,One-way,Business,Silver,2,556,134,690,45,Yes,22–45 days
+B00073,C0289,2025-07-29,2025-10-07,TBS,RUH,TBS-RUH,Mobile App,Return,Visiting friends and relatives,No membership,3,2174,317,2491,70,No,46–90 days
+B00074,C0152,2025-09-01,2025-10-31,RUH,DXB,RUH-DXB,Mobile App,One-way,Leisure,Basic,2,992,131,1123,60,Yes,46–90 days
+B00075,C0267,2025-03-08,2025-04-02,RUH,IST,RUH-IST,Website,Return,Visiting friends and relatives,Silver,1,859,141,1000,25,Yes,22–45 days
+B00076,C0240,2025-11-21,2025-11-27,DMM,JED,DMM-JED,Website,One-way,Leisure,Gold,1,372,87,459,6,Yes,1–7 days
+B00077,C0172,2025-01-14,2025-03-03,JED,RUH,JED-RUH,Mobile App,One-way,Leisure,No membership,1,238,76,314,48,No,46–90 days
+B00078,C0066,2025-03-28,2025-04-04,JED,DMM,JED-DMM,Website,One-way,Visiting friends and relatives,No membership,2,730,145,875,7,Yes,1–7 days
+B00079,C0013,2025-09-26,2025-12-10,RUH,JED,RUH-JED,Online Travel Agency,Return,Leisure,Gold,1,259,85,344,75,Yes,46–90 days
+B00080,C0233,2025-01-08,2025-02-13,CAI,JED,CAI-JED,Mobile App,One-way,Business,Basic,2,1284,93,1377,36,Yes,22–45 days
+B00081,C0020,2025-03-03,2025-05-28,RUH,TBS,RUH-TBS,Website,Return,Leisure,Silver,1,724,104,828,86,Yes,46–90 days
+B00082,C0259,2025-03-05,2025-04-02,RUH,DXB,RUH-DXB,Mobile App,Return,Visiting friends and relatives,Silver,2,947,192,1139,28,Yes,22–45 days
+B00083,C0065,2025-09-22,2025-11-02,JED,CAI,JED-CAI,Mobile App,One-way,Business,No membership,2,1305,165,1470,41,Yes,22–45 days
+B00084,C0109,2025-09-17,2025-12-13,IST,RUH,IST-RUH,Website,Return,Leisure,No membership,1,774,54,828,87,Yes,46–90 days
+B00085,C0042,2025-07-01,2025-09-17,RUH,IST,RUH-IST,Mobile App,One-way,Visiting friends and relatives,Basic,3,2570,454,3024,78,Yes,46–90 days
+B00086,C0016,2025-12-16,2026-02-28,CAI,JED,CAI-JED,Travel Agent,Return,Leisure,Silver,3,2034,167,2201,74,Yes,46–90 days
+B00087,C0203,2025-11-04,2025-11-28,TBS,RUH,TBS-RUH,Website,Return,Visiting friends and relatives,Basic,2,1347,265,1612,24,Yes,22–45 days
+B00088,C0047,2025-07-31,2025-10-16,RUH,IST,RUH-IST,Online Travel Agency,Return,Business,Basic,2,1521,164,1685,77,Yes,46–90 days
+B00089,C0144,2025-03-16,2025-05-12,TBS,RUH,TBS-RUH,Mobile App,One-way,Business,No membership,1,712,52,764,57,Yes,46–90 days
+B00090,C0177,2025-09-09,2025-12-04,JED,DMM,JED-DMM,Website,Return,Leisure,Silver,3,870,230,1100,86,Yes,46–90 days
+B00091,C0324,2025-02-13,2025-05-09,RUH,IST,RUH-IST,Website,Return,Leisure,Basic,3,2524,233,2757,85,Yes,46–90 days
+B00092,C0021,2025-01-31,2025-04-19,JED,DMM,JED-DMM,Website,One-way,Leisure,Gold,1,297,81,378,78,Yes,46–90 days
+B00093,C0220,2025-07-02,2025-08-28,DXB,RUH,DXB-RUH,Website,One-way,Leisure,Basic,4,1896,371,2267,57,Yes,46–90 days
+B00094,C0276,2025-05-07,2025-07-20,DMM,JED,DMM-JED,Travel Agent,One-way,Visiting friends and relatives,Basic,1,289,67,356,74,Yes,46–90 days
+B00095,C0183,2025-11-09,2026-01-12,JED,RUH,JED-RUH,Website,One-way,Leisure,Basic,1,288,76,364,64,Yes,46–90 days
+B00096,C0121,2025-12-15,2025-12-22,TBS,RUH,TBS-RUH,Website,One-way,Business,No membership,1,1005,78,1083,7,Yes,1–7 days
+B00097,C0050,2025-12-28,2026-02-16,TBS,RUH,TBS-RUH,Mobile App,One-way,Leisure,Basic,2,1366,161,1527,50,Yes,46–90 days
+B00098,C0013,2025-03-11,2025-05-05,TBS,RUH,TBS-RUH,Online Travel Agency,One-way,Leisure,No membership,1,771,98,869,55,Yes,46–90 days
+B00099,C0042,2025-10-23,2025-12-20,JED,RUH,JED-RUH,Website,Return,Visiting friends and relatives,No membership,2,505,292,797,58,Yes,46–90 days
+B00100,C0085,2025-10-14,2025-11-18,JED,CAI,JED-CAI,Website,One-way,Visiting friends and relatives,Gold,2,1270,182,1452,35,Yes,22–45 days
+B00101,C0092,2025-06-11,2025-08-29,IST,RUH,IST-RUH,Mobile App,One-way,Leisure,Basic,1,763,120,883,79,Yes,46–90 days
+B00102,C0049,2025-03-16,2025-04-19,JED,DMM,JED-DMM,Online Travel Agency,One-way,Leisure,Basic,1,317,64,381,34,Yes,22–45 days
+B00103,C0147,2025-07-27,2025-08-04,IST,RUH,IST-RUH,Website,One-way,Visiting friends and relatives,Basic,3,2661,252,2913,8,Yes,8–21 days
+B00104,C0303,2025-06-12,2025-08-15,JED,DMM,JED-DMM,Website,One-way,Visiting friends and relatives,Basic,1,284,130,414,64,Yes,46–90 days
+B00105,C0037,2025-05-21,2025-08-09,RUH,TBS,RUH-TBS,Website,One-way,Visiting friends and relatives,Basic,1,663,125,788,80,Yes,46–90 days
+B00106,C0117,2025-10-17,2025-10-27,RUH,TBS,RUH-TBS,Website,Return,Leisure,Basic,1,879,110,989,10,Yes,8–21 days
+B00107,C0197,2025-04-04,2025-05-27,TBS,RUH,TBS-RUH,Mobile App,One-way,Visiting friends and relatives,Basic,1,715,75,790,53,Yes,46–90 days
+B00108,C0016,2025-03-10,2025-03-31,IST,RUH,IST-RUH,Mobile App,One-way,Business,Silver,4,3981,334,4315,21,Yes,8–21 days
+B00109,C0113,2025-10-17,2025-11-08,RUH,JED,RUH-JED,Mobile App,One-way,Leisure,No membership,2,497,173,670,22,Yes,22–45 days
+B00110,C0066,2025-02-04,2025-04-18,JED,CAI,JED-CAI,Website,One-way,Leisure,No membership,4,2326,336,2662,73,Yes,46–90 days
+B00111,C0067,2025-11-21,2025-11-22,RUH,TBS,RUH-TBS,Website,Return,Visiting friends and relatives,Basic,2,1923,180,2103,1,Yes,1–7 days
+B00112,C0039,2025-06-15,2025-07-09,JED,DMM,JED-DMM,Mobile App,One-way,Leisure,Silver,4,1060,482,1542,24,Yes,22–45 days
+B00113,C0001,2025-05-09,2025-06-20,RUH,IST,RUH-IST,Online Travel Agency,One-way,Visiting friends and relatives,No membership,1,888,63,951,42,Yes,22–45 days
+B00114,C0026,2025-08-23,2025-09-17,RUH,IST,RUH-IST,Online Travel Agency,One-way,Leisure,No membership,1,762,59,821,25,Yes,22–45 days
+B00115,C0136,2025-01-10,2025-03-20,IST,RUH,IST-RUH,Mobile App,One-way,Leisure,No membership,1,831,87,918,69,Yes,46–90 days
+B00116,C0258,2025-08-24,2025-10-28,RUH,IST,RUH-IST,Mobile App,Return,Leisure,Basic,2,1612,195,1807,65,Yes,46–90 days
+B00117,C0217,2025-01-01,2025-03-13,RUH,IST,RUH-IST,Website,Return,Business,Basic,4,3453,309,3762,71,Yes,46–90 days
+B00118,C0202,2025-04-07,2025-05-22,JED,CAI,JED-CAI,Website,Return,Leisure,Basic,1,583,72,655,45,Yes,22–45 days
+B00119,C0015,2025-07-14,2025-08-19,RUH,TBS,RUH-TBS,Website,One-way,Leisure,Silver,1,756,61,817,36,Yes,22–45 days
+B00120,C0083,2025-07-04,2025-07-14,IST,RUH,IST-RUH,Website,Return,Visiting friends and relatives,Basic,1,930,93,1023,10,Yes,8–21 days
+B00121,C0312,2025-10-14,2025-11-11,JED,CAI,JED-CAI,Mobile App,One-way,Leisure,Basic,1,657,117,774,28,Yes,22–45 days
+B00122,C0258,2025-05-19,2025-08-11,JED,CAI,JED-CAI,Website,Return,Leisure,Basic,2,1149,101,1250,84,Yes,46–90 days
+B00123,C0133,2025-08-16,2025-10-28,CAI,JED,CAI-JED,Mobile App,One-way,Visiting friends and relatives,No membership,1,650,102,752,73,Yes,46–90 days
+B00124,C0189,2025-10-13,2025-12-02,DXB,RUH,DXB-RUH,Mobile App,One-way,Leisure,Silver,3,1475,364,1839,50,Yes,46–90 days
+B00125,C0215,2025-03-18,2025-04-17,TBS,RUH,TBS-RUH,Travel Agent,Return,Leisure,Basic,2,1634,219,1853,30,Yes,22–45 days
+B00126,C0323,2025-02-24,2025-03-19,JED,CAI,JED-CAI,Website,One-way,Visiting friends and relatives,Basic,1,615,133,748,23,Yes,22–45 days
+B00127,C0177,2025-06-28,2025-09-12,RUH,TBS,RUH-TBS,Online Travel Agency,One-way,Visiting friends and relatives,Silver,1,763,148,911,76,Yes,46–90 days
+B00128,C0008,2025-04-28,2025-06-05,CAI,JED,CAI-JED,Mobile App,Return,Leisure,No membership,1,657,72,729,38,Yes,22–45 days
+B00129,C0252,2025-08-14,2025-09-08,JED,RUH,JED-RUH,Website,Return,Leisure,Basic,2,539,252,791,25,Yes,22–45 days
+B00130,C0072,2025-02-23,2025-03-05,JED,DMM,JED-DMM,Website,Return,Visiting friends and relatives,No membership,1,301,145,446,10,Yes,8–21 days
+B00131,C0014,2025-02-20,2025-03-22,CAI,JED,CAI-JED,Mobile App,Return,Business,No membership,2,1178,168,1346,30,Yes,22–45 days
+B00132,C0062,2025-11-04,2025-12-05,IST,RUH,IST-RUH,Mobile App,One-way,Leisure,Silver,1,740,65,805,31,Yes,22–45 days
+B00133,C0046,2025-04-15,2025-06-24,RUH,TBS,RUH-TBS,Mobile App,One-way,Business,Basic,2,1431,128,1559,70,Yes,46–90 days
+B00134,C0087,2025-06-02,2025-06-06,RUH,JED,RUH-JED,Website,Return,Leisure,No membership,1,334,70,404,4,Yes,1–7 days
+B00135,C0222,2025-05-01,2025-06-04,JED,CAI,JED-CAI,Online Travel Agency,Return,Business,Basic,2,1384,75,1459,34,Yes,22–45 days
+B00136,C0112,2025-12-08,2026-02-24,JED,CAI,JED-CAI,Website,Return,Visiting friends and relatives,Basic,4,2334,355,2689,78,Yes,46–90 days
+B00137,C0250,2025-04-08,2025-06-04,RUH,DXB,RUH-DXB,Website,One-way,Leisure,No membership,1,539,87,626,57,No,46–90 days
+B00138,C0064,2025-09-13,2025-10-14,JED,DMM,JED-DMM,Mobile App,One-way,Leisure,Basic,1,319,73,392,31,Yes,22–45 days
+B00139,C0226,2025-10-16,2025-10-20,CAI,JED,CAI-JED,Online Travel Agency,One-way,Leisure,No membership,4,3229,264,3493,4,Yes,1–7 days
+B00140,C0318,2025-05-20,2025-07-17,RUH,TBS,RUH-TBS,Website,Return,Visiting friends and relatives,No membership,2,1507,146,1653,58,No,46–90 days
+B00141,C0172,2025-01-01,2025-01-02,JED,CAI,JED-CAI,Mobile App,Return,Leisure,Silver,1,828,137,965,1,Yes,1–7 days
+B00142,C0020,2025-11-24,2026-02-22,RUH,IST,RUH-IST,Website,Return,Leisure,No membership,1,765,119,884,90,Yes,46–90 days
+B00143,C0027,2025-11-15,2026-01-21,RUH,JED,RUH-JED,Website,Return,Visiting friends and relatives,Silver,1,285,77,362,67,Yes,46–90 days
+B00144,C0044,2025-03-11,2025-05-31,DMM,JED,DMM-JED,Mobile App,One-way,Leisure,Basic,1,280,117,397,81,Yes,46–90 days
+B00145,C0284,2025-03-04,2025-05-29,JED,RUH,JED-RUH,Mobile App,One-way,Visiting friends and relatives,Basic,1,234,90,324,86,Yes,46–90 days
+B00146,C0239,2025-03-02,2025-05-13,RUH,IST,RUH-IST,Website,One-way,Leisure,Silver,2,1652,273,1925,72,Yes,46–90 days
+B00147,C0049,2025-01-15,2025-03-28,RUH,JED,RUH-JED,Online Travel Agency,Return,Visiting friends and relatives,No membership,2,524,256,780,72,Yes,46–90 days
+B00148,C0212,2025-06-11,2025-06-21,RUH,TBS,RUH-TBS,Mobile App,Return,Visiting friends and relatives,Basic,1,828,105,933,10,Yes,8–21 days
+B00149,C0238,2025-06-30,2025-09-24,JED,CAI,JED-CAI,Mobile App,One-way,Leisure,Silver,1,574,94,668,86,Yes,46–90 days
+B00150,C0236,2025-04-04,2025-05-20,JED,CAI,JED-CAI,Website,One-way,Leisure,Basic,1,588,57,645,46,Yes,46–90 days
+B00151,C0199,2025-05-22,2025-06-08,CAI,JED,CAI-JED,Mobile App,Return,Visiting friends and relatives,No membership,1,703,73,776,17,Yes,8–21 days
+B00152,C0087,2025-02-14,2025-03-05,RUH,DXB,RUH-DXB,Online Travel Agency,Return,Leisure,Basic,3,1723,333,2056,19,Yes,8–21 days
+B00153,C0288,2025-01-31,2025-03-31,DXB,RUH,DXB-RUH,Website,Return,Visiting friends and relatives,No membership,1,507,134,641,59,No,46–90 days
+B00154,C0223,2025-01-21,2025-01-25,RUH,JED,RUH-JED,Website,One-way,Visiting friends and relatives,Silver,2,621,183,804,4,Yes,1–7 days
+B00155,C0257,2025-10-04,2025-10-20,CAI,JED,CAI-JED,Online Travel Agency,One-way,Leisure,Basic,1,687,74,761,16,Yes,8–21 days
+B00156,C0112,2025-03-21,2025-03-27,RUH,IST,RUH-IST,Online Travel Agency,Return,Business,Basic,2,1944,117,2061,6,Yes,1–7 days
+B00157,C0038,2025-01-04,2025-03-14,JED,RUH,JED-RUH,Online Travel Agency,Return,Business,Basic,1,269,63,332,69,Yes,46–90 days
+B00158,C0206,2025-06-29,2025-09-02,JED,CAI,JED-CAI,Travel Agent,One-way,Leisure,Basic,1,588,94,682,65,Yes,46–90 days
+B00159,C0234,2025-03-24,2025-05-25,TBS,RUH,TBS-RUH,Online Travel Agency,Return,Business,No membership,1,802,55,857,62,Yes,46–90 days
+B00160,C0223,2025-11-05,2025-12-13,CAI,JED,CAI-JED,Website,Return,Leisure,Basic,1,608,61,669,38,Yes,22–45 days
+B00161,C0060,2025-06-01,2025-07-09,DMM,JED,DMM-JED,Website,Return,Visiting friends and relatives,Basic,1,308,147,455,38,Yes,22–45 days
+B00162,C0320,2025-08-14,2025-09-02,RUH,TBS,RUH-TBS,Online Travel Agency,Return,Leisure,Gold,2,1746,290,2036,19,Yes,8–21 days
+B00163,C0078,2025-01-14,2025-02-12,JED,CAI,JED-CAI,Mobile App,Return,Visiting friends and relatives,Silver,2,1219,289,1508,29,Yes,22–45 days
+B00164,C0137,2025-07-15,2025-08-25,RUH,DXB,RUH-DXB,Online Travel Agency,Return,Visiting friends and relatives,No membership,1,471,78,549,41,Yes,22–45 days
+B00165,C0043,2025-05-09,2025-05-27,JED,RUH,JED-RUH,Website,Return,Leisure,Basic,3,961,286,1247,18,Yes,8–21 days
+B00166,C0172,2025-05-18,2025-05-21,JED,CAI,JED-CAI,Travel Agent,One-way,Visiting friends and relatives,No membership,2,1815,117,1932,3,No,1–7 days
+B00167,C0084,2025-09-14,2025-10-29,CAI,JED,CAI-JED,Travel Agent,Return,Visiting friends and relatives,No membership,2,1340,128,1468,45,Yes,22–45 days
+B00168,C0025,2025-07-03,2025-07-06,RUH,DXB,RUH-DXB,Website,Return,Leisure,No membership,1,598,69,667,3,Yes,1–7 days
+B00169,C0088,2025-12-18,2026-01-06,TBS,RUH,TBS-RUH,Mobile App,One-way,Business,Silver,3,2459,134,2593,19,Yes,8–21 days
+B00170,C0323,2025-03-23,2025-06-03,JED,DMM,JED-DMM,Online Travel Agency,Return,Leisure,Silver,2,643,153,796,72,Yes,46–90 days
+B00171,C0266,2025-10-18,2025-11-12,JED,CAI,JED-CAI,Website,One-way,Leisure,Basic,1,616,122,738,25,Yes,22–45 days
+B00172,C0299,2025-02-10,2025-02-14,RUH,DXB,RUH-DXB,Mobile App,Return,Leisure,Silver,1,612,56,668,4,Yes,1–7 days
+B00173,C0330,2025-04-27,2025-06-04,JED,CAI,JED-CAI,Mobile App,Return,Business,No membership,1,622,85,707,38,Yes,22–45 days
+B00174,C0131,2025-01-15,2025-03-17,DMM,JED,DMM-JED,Online Travel Agency,One-way,Visiting friends and relatives,Basic,1,277,137,414,61,Yes,46–90 days
+B00175,C0279,2025-11-14,2025-12-11,CAI,JED,CAI-JED,Website,Return,Leisure,Gold,1,567,60,627,27,Yes,22–45 days
+B00176,C0174,2025-10-12,2025-11-27,RUH,IST,RUH-IST,Website,Return,Leisure,Basic,2,1468,136,1604,46,Yes,46–90 days
+B00177,C0098,2025-10-06,2025-10-23,JED,CAI,JED-CAI,Mobile App,Return,Business,Basic,1,666,74,740,17,Yes,8–21 days
+B00178,C0117,2025-10-31,2025-11-20,RUH,TBS,RUH-TBS,Website,One-way,Visiting friends and relatives,Basic,1,751,75,826,20,Yes,8–21 days
+B00179,C0242,2025-07-07,2025-09-12,JED,DMM,JED-DMM,Mobile App,Return,Business,Basic,3,872,161,1033,67,Yes,46–90 days
+B00180,C0162,2025-07-21,2025-09-06,RUH,DXB,RUH-DXB,Mobile App,One-way,Leisure,Basic,4,1992,316,2308,47,Yes,46–90 days
+B00181,C0046,2025-03-11,2025-05-24,JED,DMM,JED-DMM,Travel Agent,One-way,Business,No membership,1,333,68,401,74,Yes,46–90 days
+B00182,C0198,2025-08-10,2025-10-12,JED,DMM,JED-DMM,Website,Return,Visiting friends and relatives,No membership,1,283,59,342,63,No,46–90 days
+B00183,C0243,2025-01-24,2025-02-08,DXB,RUH,DXB-RUH,Website,Return,Leisure,No membership,1,621,75,696,15,No,8–21 days
+B00184,C0053,2025-10-18,2025-11-05,DMM,JED,DMM-JED,Mobile App,Return,Business,Basic,1,293,55,348,18,Yes,8–21 days
+B00185,C0234,2025-10-31,2025-11-08,RUH,IST,RUH-IST,Website,Return,Visiting friends and relatives,Basic,2,1907,168,2075,8,Yes,8–21 days
+B00186,C0001,2025-10-02,2025-11-26,IST,RUH,IST-RUH,Online Travel Agency,One-way,Leisure,Silver,2,1703,216,1919,55,Yes,46–90 days
+B00187,C0306,2025-08-20,2025-09-20,IST,RUH,IST-RUH,Mobile App,One-way,Leisure,No membership,1,875,113,988,31,Yes,22–45 days
+B00188,C0019,2025-02-24,2025-04-04,JED,CAI,JED-CAI,Mobile App,One-way,Leisure,Basic,1,600,95,695,39,Yes,22–45 days
+B00189,C0089,2025-02-05,2025-04-23,JED,RUH,JED-RUH,Website,Return,Business,Basic,1,254,78,332,77,Yes,46–90 days
+B00190,C0105,2025-12-28,2026-03-17,JED,DMM,JED-DMM,Website,Return,Leisure,No membership,2,602,120,722,79,Yes,46–90 days
+B00191,C0131,2025-07-26,2025-08-07,JED,CAI,JED-CAI,Travel Agent,Return,Leisure,Basic,1,753,67,820,12,Yes,8–21 days
+B00192,C0126,2025-05-14,2025-08-03,IST,RUH,IST-RUH,Mobile App,One-way,Leisure,Basic,1,756,61,817,81,Yes,46–90 days
+B00193,C0051,2025-06-19,2025-07-16,JED,DMM,JED-DMM,Mobile App,Return,Business,No membership,1,290,40,330,27,Yes,22–45 days
+B00194,C0321,2025-01-22,2025-02-04,JED,CAI,JED-CAI,Travel Agent,One-way,Leisure,Basic,1,814,84,898,13,Yes,8–21 days
+B00195,C0179,2025-12-17,2025-12-29,RUH,DXB,RUH-DXB,Online Travel Agency,One-way,Leisure,No membership,3,1558,152,1710,12,No,8–21 days
+B00196,C0118,2025-09-20,2025-11-09,JED,RUH,JED-RUH,Website,Return,Business,No membership,2,501,108,609,50,Yes,46–90 days
+B00197,C0108,2025-05-04,2025-07-14,RUH,JED,RUH-JED,Mobile App,Return,Leisure,No membership,1,243,127,370,71,Yes,46–90 days
+B00198,C0149,2025-09-05,2025-10-02,JED,CAI,JED-CAI,Travel Agent,Return,Business,Basic,2,1340,95,1435,27,Yes,22–45 days
+B00199,C0243,2025-03-23,2025-05-09,DXB,RUH,DXB-RUH,Online Travel Agency,Return,Visiting friends and relatives,Silver,2,968,181,1149,47,Yes,46–90 days
+B00200,C0118,2025-07-25,2025-07-29,IST,RUH,IST-RUH,Mobile App,One-way,Leisure,Silver,2,2251,176,2427,4,Yes,1–7 days
+B00201,C0076,2025-08-01,2025-08-06,RUH,IST,RUH-IST,Online Travel Agency,Return,Leisure,Gold,2,2245,218,2463,5,Yes,1–7 days
+B00202,C0248,2025-08-17,2025-08-26,DXB,RUH,DXB-RUH,Online Travel Agency,Return,Business,No membership,1,546,89,635,9,No,8–21 days
+B00203,C0305,2025-12-28,2026-02-27,DMM,JED,DMM-JED,Mobile App,One-way,Leisure,Basic,1,318,73,391,61,Yes,46–90 days
+B00204,C0212,2025-06-06,2025-07-26,IST,RUH,IST-RUH,Mobile App,Return,Visiting friends and relatives,Basic,2,1715,225,1940,50,Yes,46–90 days
+B00205,C0007,2025-09-08,2025-09-29,CAI,JED,CAI-JED,Mobile App,One-way,Leisure,Basic,4,2839,421,3260,21,Yes,8–21 days
+B00206,C0258,2025-06-07,2025-06-30,RUH,JED,RUH-JED,Mobile App,One-way,Visiting friends and relatives,No membership,3,709,424,1133,23,No,22–45 days
+B00207,C0319,2025-07-07,2025-09-25,RUH,DXB,RUH-DXB,Mobile App,One-way,Leisure,Basic,1,448,71,519,80,Yes,46–90 days
+B00208,C0045,2025-10-29,2026-01-08,RUH,TBS,RUH-TBS,Mobile App,Return,Leisure,Basic,2,1478,153,1631,71,Yes,46–90 days
+B00209,C0125,2025-02-21,2025-05-09,RUH,TBS,RUH-TBS,Mobile App,One-way,Leisure,No membership,4,2855,269,3124,77,Yes,46–90 days
+B00210,C0124,2025-05-30,2025-06-23,JED,CAI,JED-CAI,Travel Agent,One-way,Leisure,No membership,3,2042,328,2370,24,Yes,22–45 days
+B00211,C0214,2025-09-11,2025-12-01,JED,RUH,JED-RUH,Website,One-way,Business,Basic,3,783,111,894,81,Yes,46–90 days
+B00212,C0255,2025-03-31,2025-06-17,TBS,RUH,TBS-RUH,Website,One-way,Leisure,No membership,1,728,95,823,78,No,46–90 days
+B00213,C0167,2025-01-16,2025-03-15,CAI,JED,CAI-JED,Website,Return,Leisure,Basic,1,611,83,694,58,Yes,46–90 days
+B00214,C0108,2025-10-04,2025-10-14,RUH,DXB,RUH-DXB,Online Travel Agency,Return,Leisure,No membership,1,565,57,622,10,Yes,8–21 days
+B00215,C0043,2025-10-06,2025-11-11,RUH,JED,RUH-JED,Website,One-way,Leisure,Silver,1,242,134,376,36,Yes,22–45 days
+B00216,C0053,2025-03-10,2025-03-12,DXB,RUH,DXB-RUH,Website,One-way,Visiting friends and relatives,Silver,2,1212,169,1381,2,Yes,1–7 days
+B00217,C0082,2025-01-12,2025-03-13,RUH,TBS,RUH-TBS,Mobile App,Return,Visiting friends and relatives,Basic,1,676,63,739,60,Yes,46–90 days
+B00218,C0222,2025-09-13,2025-10-09,TBS,RUH,TBS-RUH,Mobile App,One-way,Business,No membership,1,752,71,823,26,Yes,22–45 days
+B00219,C0303,2025-01-15,2025-03-26,JED,RUH,JED-RUH,Mobile App,Return,Leisure,Gold,1,255,95,350,70,Yes,46–90 days
+B00220,C0157,2025-09-22,2025-11-15,JED,CAI,JED-CAI,Website,Return,Leisure,Basic,1,567,68,635,54,Yes,46–90 days
+B00221,C0146,2025-02-20,2025-03-17,RUH,TBS,RUH-TBS,Travel Agent,Return,Leisure,No membership,2,1391,108,1499,25,Yes,22–45 days
+B00222,C0259,2025-01-26,2025-02-27,JED,DMM,JED-DMM,Website,Return,Visiting friends and relatives,Basic,1,293,119,412,32,Yes,22–45 days
+B00223,C0243,2025-05-13,2025-06-17,DMM,JED,DMM-JED,Online Travel Agency,One-way,Leisure,No membership,1,275,50,325,35,Yes,22–45 days
+B00224,C0172,2025-11-20,2026-02-13,RUH,JED,RUH-JED,Mobile App,Return,Visiting friends and relatives,Basic,1,248,132,380,85,Yes,46–90 days
+B00225,C0168,2025-10-16,2025-12-28,RUH,DXB,RUH-DXB,Website,One-way,Leisure,No membership,1,520,70,590,73,Yes,46–90 days
+B00226,C0192,2025-05-27,2025-07-28,CAI,JED,CAI-JED,Mobile App,One-way,Business,Basic,1,639,76,715,62,Yes,46–90 days
+B00227,C0225,2025-11-14,2026-01-27,CAI,JED,CAI-JED,Website,Return,Leisure,No membership,2,1154,171,1325,74,No,46–90 days
+B00228,C0054,2025-11-20,2025-12-12,JED,CAI,JED-CAI,Online Travel Agency,One-way,Leisure,Basic,4,2291,209,2500,22,Yes,22–45 days
+B00229,C0302,2025-05-19,2025-06-06,JED,RUH,JED-RUH,Website,Return,Leisure,No membership,3,858,379,1237,18,No,8–21 days
+B00230,C0028,2025-07-19,2025-09-20,JED,DMM,JED-DMM,Website,One-way,Leisure,Silver,3,849,390,1239,63,Yes,46–90 days
+B00231,C0157,2025-11-12,2025-11-18,JED,RUH,JED-RUH,Website,One-way,Leisure,No membership,3,1098,227,1325,6,Yes,1–7 days
+B00232,C0107,2025-08-22,2025-10-23,DMM,JED,DMM-JED,Website,One-way,Leisure,No membership,2,573,249,822,62,Yes,46–90 days
+B00233,C0042,2025-07-25,2025-08-28,RUH,JED,RUH-JED,Website,Return,Leisure,No membership,1,236,96,332,34,Yes,22–45 days
+B00234,C0108,2025-03-11,2025-05-05,JED,RUH,JED-RUH,Mobile App,Return,Business,Basic,1,283,83,366,55,Yes,46–90 days
+B00235,C0269,2025-01-16,2025-04-01,RUH,TBS,RUH-TBS,Online Travel Agency,One-way,Business,Basic,1,697,54,751,75,Yes,46–90 days
+B00236,C0015,2025-05-04,2025-07-25,TBS,RUH,TBS-RUH,Website,Return,Leisure,Basic,1,720,117,837,82,Yes,46–90 days
+B00237,C0143,2025-06-04,2025-06-28,CAI,JED,CAI-JED,Online Travel Agency,One-way,Leisure,Basic,1,594,73,667,24,Yes,22–45 days
+B00238,C0263,2025-04-26,2025-04-28,CAI,JED,CAI-JED,Website,Return,Leisure,Basic,1,860,123,983,2,Yes,1–7 days
+B00239,C0094,2025-01-05,2025-01-28,DMM,JED,DMM-JED,Mobile App,Return,Leisure,Basic,2,514,120,634,23,Yes,22–45 days
+B00240,C0038,2025-01-15,2025-03-18,JED,CAI,JED-CAI,Website,Return,Visiting friends and relatives,Basic,1,611,128,739,62,Yes,46–90 days
+B00241,C0089,2025-10-09,2025-10-19,JED,DMM,JED-DMM,Website,One-way,Leisure,No membership,1,315,69,384,10,Yes,8–21 days
+B00242,C0163,2025-04-10,2025-04-13,RUH,IST,RUH-IST,Website,One-way,Leisure,No membership,2,2227,135,2362,3,Yes,1–7 days
+B00243,C0296,2025-01-28,2025-04-10,JED,CAI,JED-CAI,Mobile App,One-way,Business,No membership,1,660,67,727,72,No,46–90 days
+B00244,C0275,2025-05-31,2025-08-09,TBS,RUH,TBS-RUH,Website,Return,Visiting friends and relatives,Basic,2,1410,209,1619,70,Yes,46–90 days
+B00245,C0191,2025-05-27,2025-07-02,JED,RUH,JED-RUH,Mobile App,Return,Leisure,Basic,1,260,69,329,36,Yes,22–45 days
+B00246,C0217,2025-12-04,2026-01-15,RUH,DXB,RUH-DXB,Website,Return,Business,No membership,1,468,64,532,42,No,22–45 days
+B00247,C0212,2025-08-30,2025-09-15,RUH,DXB,RUH-DXB,Website,One-way,Visiting friends and relatives,Basic,1,538,141,679,16,Yes,8–21 days
+B00248,C0159,2025-11-30,2025-12-01,JED,DMM,JED-DMM,Travel Agent,Return,Leisure,Basic,1,436,51,487,1,Yes,1–7 days
+B00249,C0145,2025-11-16,2026-01-05,JED,RUH,JED-RUH,Mobile App,Return,Leisure,Silver,1,275,129,404,50,Yes,46–90 days
+B00250,C0321,2025-05-21,2025-06-18,RUH,DXB,RUH-DXB,Website,Return,Business,Basic,2,1067,88,1155,28,Yes,22–45 days
+B00251,C0116,2025-02-25,2025-05-22,CAI,JED,CAI-JED,Mobile App,One-way,Leisure,Basic,2,1351,227,1578,86,Yes,46–90 days
+B00252,C0272,2025-10-27,2025-12-07,IST,RUH,IST-RUH,Website,One-way,Visiting friends and relatives,No membership,1,766,144,910,41,No,22–45 days
+B00253,C0291,2025-12-01,2025-12-28,DXB,RUH,DXB-RUH,Mobile App,One-way,Leisure,Basic,1,442,67,509,27,Yes,22–45 days
+B00254,C0247,2025-12-06,2026-02-01,JED,DMM,JED-DMM,Mobile App,One-way,Business,No membership,1,285,64,349,57,No,46–90 days
+B00255,C0005,2025-03-30,2025-06-23,JED,DMM,JED-DMM,Online Travel Agency,Return,Leisure,Silver,2,600,260,860,85,Yes,46–90 days
+B00256,C0128,2025-02-01,2025-02-04,DMM,JED,DMM-JED,Website,Return,Leisure,No membership,1,396,71,467,3,Yes,1–7 days
+B00257,C0324,2025-01-13,2025-02-15,RUH,TBS,RUH-TBS,Online Travel Agency,One-way,Business,No membership,3,2033,189,2222,33,Yes,22–45 days
+B00258,C0280,2025-07-23,2025-09-17,RUH,JED,RUH-JED,Website,One-way,Leisure,Basic,3,863,311,1174,56,Yes,46–90 days
+B00259,C0044,2025-03-16,2025-05-11,DMM,JED,DMM-JED,Website,One-way,Leisure,No membership,2,571,153,724,56,Yes,46–90 days
+B00260,C0316,2025-03-22,2025-04-26,IST,RUH,IST-RUH,Website,Return,Leisure,Basic,2,1615,99,1714,35,Yes,22–45 days
+B00261,C0158,2025-03-06,2025-05-08,RUH,DXB,RUH-DXB,Website,One-way,Visiting friends and relatives,No membership,3,1450,280,1730,63,Yes,46–90 days
+B00262,C0289,2025-07-31,2025-08-20,DMM,JED,DMM-JED,Website,One-way,Visiting friends and relatives,No membership,1,325,85,410,20,No,8–21 days
+B00263,C0258,2025-11-22,2025-11-24,RUH,TBS,RUH-TBS,Mobile App,One-way,Business,Basic,1,1014,44,1058,2,Yes,1–7 days
+B00264,C0155,2025-11-22,2026-02-03,RUH,TBS,RUH-TBS,Mobile App,Return,Leisure,Silver,1,736,135,871,73,Yes,46–90 days
+B00265,C0154,2025-06-28,2025-07-11,JED,DMM,JED-DMM,Mobile App,One-way,Visiting friends and relatives,Gold,1,321,185,506,13,Yes,8–21 days
+B00266,C0275,2025-02-08,2025-03-23,RUH,TBS,RUH-TBS,Mobile App,Return,Business,Basic,1,677,52,729,43,Yes,22–45 days
+B00267,C0280,2025-11-20,2026-02-10,TBS,RUH,TBS-RUH,Website,Return,Leisure,No membership,2,1327,136,1463,82,Yes,46–90 days
+B00268,C0116,2025-03-21,2025-04-18,DXB,RUH,DXB-RUH,Online Travel Agency,Return,Business,Basic,1,525,59,584,28,Yes,22–45 days
+B00269,C0105,2025-04-23,2025-06-14,TBS,RUH,TBS-RUH,Mobile App,One-way,Visiting friends and relatives,Basic,2,1440,134,1574,52,Yes,46–90 days
+B00270,C0037,2025-03-04,2025-04-13,RUH,DXB,RUH-DXB,Website,Return,Leisure,No membership,1,544,92,636,40,Yes,22–45 days
+B00271,C0060,2025-10-25,2025-12-11,RUH,TBS,RUH-TBS,Website,One-way,Leisure,No membership,1,741,112,853,47,Yes,46–90 days
+B00272,C0047,2025-07-01,2025-07-20,RUH,TBS,RUH-TBS,Online Travel Agency,One-way,Leisure,No membership,1,931,87,1018,19,Yes,8–21 days
+B00273,C0293,2025-08-09,2025-09-04,DXB,RUH,DXB-RUH,Travel Agent,Return,Business,Gold,3,1440,189,1629,26,Yes,22–45 days
+B00274,C0152,2025-12-26,2026-03-21,CAI,JED,CAI-JED,Website,Return,Leisure,Basic,2,1243,198,1441,85,Yes,46–90 days
+B00275,C0186,2025-05-04,2025-06-13,RUH,TBS,RUH-TBS,Website,One-way,Visiting friends and relatives,Basic,2,1474,274,1748,40,Yes,22–45 days
+B00276,C0220,2025-05-03,2025-07-01,JED,CAI,JED-CAI,Mobile App,Return,Leisure,Basic,1,550,81,631,59,Yes,46–90 days
+B00277,C0087,2025-07-18,2025-10-09,RUH,IST,RUH-IST,Online Travel Agency,One-way,Business,Silver,1,911,58,969,83,Yes,46–90 days
+B00278,C0157,2025-09-11,2025-09-27,JED,DMM,JED-DMM,Website,Return,Business,No membership,1,346,76,422,16,Yes,8–21 days
+B00279,C0300,2025-12-03,2026-02-13,JED,CAI,JED-CAI,Mobile App,Return,Leisure,Silver,1,653,84,737,72,Yes,46–90 days
+B00280,C0257,2025-07-04,2025-09-17,DXB,RUH,DXB-RUH,Mobile App,Return,Leisure,Basic,1,534,111,645,75,Yes,46–90 days
+B00281,C0038,2025-05-31,2025-06-08,RUH,TBS,RUH-TBS,Website,Return,Visiting friends and relatives,Silver,4,3179,589,3768,8,Yes,8–21 days
+B00282,C0175,2025-09-20,2025-10-20,RUH,IST,RUH-IST,Website,One-way,Visiting friends and relatives,Basic,2,1618,147,1765,30,Yes,22–45 days
+B00283,C0321,2025-02-09,2025-04-06,DMM,JED,DMM-JED,Mobile App,One-way,Business,No membership,2,535,135,670,56,No,46–90 days
+B00284,C0160,2025-03-07,2025-05-13,TBS,RUH,TBS-RUH,Website,One-way,Leisure,No membership,1,699,102,801,67,Yes,46–90 days
+B00285,C0149,2025-10-01,2025-11-30,DMM,JED,DMM-JED,Website,Return,Leisure,Basic,1,263,66,329,60,Yes,46–90 days
+B00286,C0178,2025-03-20,2025-03-28,JED,DMM,JED-DMM,Website,Return,Leisure,No membership,1,338,73,411,8,No,8–21 days
+B00287,C0062,2025-06-26,2025-08-19,RUH,JED,RUH-JED,Website,One-way,Visiting friends and relatives,Basic,1,246,104,350,54,Yes,46–90 days
+B00288,C0230,2025-07-30,2025-10-07,JED,DMM,JED-DMM,Online Travel Agency,Return,Visiting friends and relatives,Basic,3,843,314,1157,69,Yes,46–90 days
+B00289,C0250,2025-12-11,2026-02-13,JED,CAI,JED-CAI,Mobile App,One-way,Leisure,No membership,2,1099,186,1285,64,Yes,46–90 days
+B00290,C0259,2025-05-11,2025-08-04,RUH,DXB,RUH-DXB,Website,One-way,Leisure,Basic,2,1033,155,1188,85,Yes,46–90 days
+B00291,C0122,2025-11-06,2025-11-23,JED,DMM,JED-DMM,Mobile App,Return,Visiting friends and relatives,Basic,1,334,106,440,17,Yes,8–21 days
+B00292,C0211,2025-05-01,2025-05-31,JED,RUH,JED-RUH,Mobile App,One-way,Leisure,Basic,1,270,73,343,30,Yes,22–45 days
+B00293,C0223,2025-12-15,2026-02-21,DXB,RUH,DXB-RUH,Website,Return,Leisure,Basic,2,1049,103,1152,68,Yes,46–90 days
+B00294,C0267,2025-10-20,2025-11-10,RUH,TBS,RUH-TBS,Mobile App,One-way,Leisure,No membership,2,1720,103,1823,21,No,8–21 days
+B00295,C0304,2025-08-12,2025-09-12,JED,DMM,JED-DMM,Travel Agent,One-way,Leisure,No membership,2,670,215,885,31,No,22–45 days
+B00296,C0266,2025-03-24,2025-05-06,TBS,RUH,TBS-RUH,Mobile App,Return,Business,Basic,1,737,64,801,43,Yes,22–45 days
+B00297,C0118,2025-08-17,2025-10-02,IST,RUH,IST-RUH,Website,Return,Leisure,Basic,1,812,61,873,46,Yes,46–90 days
+B00298,C0244,2025-06-23,2025-09-16,JED,CAI,JED-CAI,Website,Return,Visiting friends and relatives,No membership,1,564,140,704,85,No,46–90 days
+B00299,C0295,2025-03-13,2025-04-04,IST,RUH,IST-RUH,Mobile App,One-way,Leisure,No membership,1,730,87,817,22,No,22–45 days
+B00300,C0290,2025-05-04,2025-06-22,JED,DMM,JED-DMM,Website,One-way,Visiting friends and relatives,Silver,2,603,212,815,49,Yes,46–90 days
+B00301,C0238,2025-12-27,2025-12-28,IST,RUH,IST-RUH,Website,One-way,Leisure,No membership,2,2293,166,2459,1,No,1–7 days
+B00302,C0280,2025-04-06,2025-05-13,RUH,TBS,RUH-TBS,Mobile App,One-way,Visiting friends and relatives,No membership,1,690,135,825,37,No,22–45 days
+B00303,C0148,2025-10-23,2025-12-25,JED,CAI,JED-CAI,Mobile App,Return,Visiting friends and relatives,No membership,1,569,60,629,63,Yes,46–90 days
+B00304,C0301,2025-11-18,2025-11-21,RUH,JED,RUH-JED,Mobile App,Return,Leisure,No membership,1,322,82,404,3,No,1–7 days
+B00305,C0103,2025-06-03,2025-08-18,RUH,IST,RUH-IST,Website,One-way,Leisure,No membership,1,875,73,948,76,Yes,46–90 days
+B00306,C0003,2025-05-08,2025-06-21,CAI,JED,CAI-JED,Travel Agent,One-way,Leisure,No membership,1,633,78,711,44,Yes,22–45 days
+B00307,C0129,2025-03-26,2025-05-04,RUH,IST,RUH-IST,Mobile App,One-way,Leisure,Basic,2,1685,158,1843,39,Yes,22–45 days
+B00308,C0073,2025-09-25,2025-10-15,JED,RUH,JED-RUH,Mobile App,One-way,Visiting friends and relatives,No membership,2,647,221,868,20,Yes,8–21 days
+B00309,C0087,2025-03-06,2025-05-11,RUH,JED,RUH-JED,Mobile App,One-way,Leisure,Basic,4,1058,505,1563,66,Yes,46–90 days
+B00310,C0147,2025-12-22,2026-01-24,JED,RUH,JED-RUH,Mobile App,Return,Leisure,No membership,1,253,100,353,33,Yes,22–45 days
+B00311,C0330,2025-04-20,2025-05-28,IST,RUH,IST-RUH,Website,Return,Leisure,Silver,2,1593,254,1847,38,Yes,22–45 days
+B00312,C0142,2025-11-06,2026-02-01,RUH,TBS,RUH-TBS,Website,Return,Visiting friends and relatives,Basic,1,682,127,809,87,Yes,46–90 days
+B00313,C0330,2025-06-07,2025-07-24,DMM,JED,DMM-JED,Mobile App,Return,Visiting friends and relatives,Basic,1,274,86,360,47,Yes,46–90 days
+B00314,C0159,2025-02-17,2025-02-21,TBS,RUH,TBS-RUH,Mobile App,Return,Leisure,Basic,1,915,116,1031,4,Yes,1–7 days
+B00315,C0108,2025-03-20,2025-04-15,DMM,JED,DMM-JED,Website,One-way,Leisure,Basic,1,287,86,373,26,Yes,22–45 days
+B00316,C0310,2025-01-03,2025-01-04,JED,CAI,JED-CAI,Online Travel Agency,One-way,Business,Gold,2,1749,114,1863,1,Yes,1–7 days
+B00317,C0082,2025-07-14,2025-08-02,JED,CAI,JED-CAI,Website,One-way,Leisure,Silver,1,745,121,866,19,Yes,8–21 days
+B00318,C0101,2025-06-01,2025-08-05,JED,CAI,JED-CAI,Online Travel Agency,Return,Business,Basic,1,652,43,695,65,Yes,46–90 days
+B00319,C0238,2025-05-05,2025-06-23,JED,DMM,JED-DMM,Online Travel Agency,Return,Business,No membership,2,538,151,689,49,No,46–90 days
+B00320,C0090,2025-06-17,2025-09-13,RUH,DXB,RUH-DXB,Mobile App,Return,Business,No membership,3,1483,177,1660,88,Yes,46–90 days
+B00321,C0284,2025-02-24,2025-05-21,JED,DMM,JED-DMM,Travel Agent,One-way,Business,Gold,3,958,145,1103,86,Yes,46–90 days
+B00322,C0036,2025-04-28,2025-05-13,DMM,JED,DMM-JED,Website,One-way,Visiting friends and relatives,Basic,2,677,252,929,15,Yes,8–21 days
+B00323,C0047,2025-01-15,2025-02-09,RUH,JED,RUH-JED,Website,One-way,Visiting friends and relatives,Basic,3,811,392,1203,25,Yes,22–45 days
+B00324,C0178,2025-07-24,2025-10-02,JED,DMM,JED-DMM,Website,One-way,Leisure,No membership,3,820,370,1190,70,No,46–90 days
+B00325,C0160,2025-03-20,2025-05-23,JED,RUH,JED-RUH,Travel Agent,Return,Visiting friends and relatives,Basic,1,262,110,372,64,Yes,46–90 days
+B00326,C0297,2025-01-12,2025-02-01,RUH,TBS,RUH-TBS,Website,Return,Leisure,No membership,1,863,106,969,20,No,8–21 days
+B00327,C0093,2025-03-26,2025-04-28,RUH,TBS,RUH-TBS,Online Travel Agency,One-way,Leisure,Basic,1,699,71,770,33,Yes,22–45 days
+B00328,C0243,2025-06-05,2025-06-19,RUH,IST,RUH-IST,Mobile App,One-way,Business,Silver,3,2843,125,2968,14,Yes,8–21 days
+B00329,C0245,2025-07-23,2025-09-04,JED,DMM,JED-DMM,Online Travel Agency,One-way,Leisure,No membership,1,268,108,376,43,No,22–45 days
+B00330,C0239,2025-03-04,2025-05-25,DXB,RUH,DXB-RUH,Mobile App,One-way,Visiting friends and relatives,Basic,2,897,162,1059,82,Yes,46–90 days
+B00331,C0199,2025-01-30,2025-03-25,JED,CAI,JED-CAI,Website,One-way,Visiting friends and relatives,Basic,2,1314,283,1597,54,Yes,46–90 days
+B00332,C0097,2025-11-07,2026-01-15,JED,CAI,JED-CAI,Online Travel Agency,Return,Leisure,Silver,2,1384,244,1628,69,Yes,46–90 days
+B00333,C0207,2025-11-30,2026-02-11,RUH,IST,RUH-IST,Travel Agent,One-way,Visiting friends and relatives,Basic,1,908,125,1033,73,Yes,46–90 days
+B00334,C0103,2025-03-13,2025-05-12,RUH,IST,RUH-IST,Mobile App,One-way,Leisure,Silver,1,782,80,862,60,Yes,46–90 days
+B00335,C0126,2025-07-26,2025-08-09,DXB,RUH,DXB-RUH,Website,Return,Business,No membership,4,2096,310,2406,14,Yes,8–21 days
+B00336,C0289,2025-03-22,2025-04-03,JED,CAI,JED-CAI,Mobile App,One-way,Leisure,No membership,1,669,91,760,12,No,8–21 days
+B00337,C0005,2025-03-08,2025-05-20,JED,CAI,JED-CAI,Website,One-way,Leisure,Basic,2,1359,177,1536,73,Yes,46–90 days
+B00338,C0313,2025-01-21,2025-01-28,JED,CAI,JED-CAI,Website,Return,Leisure,Gold,2,1540,303,1843,7,Yes,1–7 days
+B00339,C0151,2025-11-18,2025-12-11,DMM,JED,DMM-JED,Online Travel Agency,Return,Leisure,Basic,3,834,325,1159,23,Yes,22–45 days
+B00340,C0262,2025-03-05,2025-05-09,RUH,IST,RUH-IST,Mobile App,Return,Leisure,Basic,1,826,94,920,65,Yes,46–90 days
+B00341,C0145,2025-05-01,2025-07-14,CAI,JED,CAI-JED,Website,One-way,Leisure,Silver,4,2359,318,2677,74,Yes,46–90 days
+B00342,C0127,2025-01-17,2025-02-22,IST,RUH,IST-RUH,Online Travel Agency,Return,Visiting friends and relatives,Basic,3,2428,189,2617,36,Yes,22–45 days
+B00343,C0185,2025-12-19,2026-02-22,RUH,DXB,RUH-DXB,Mobile App,Return,Leisure,Basic,3,1538,329,1867,65,Yes,46–90 days
+B00344,C0204,2025-05-20,2025-05-21,DXB,RUH,DXB-RUH,Website,One-way,Business,No membership,1,674,52,726,1,No,1–7 days
+B00345,C0158,2025-08-03,2025-09-10,RUH,IST,RUH-IST,Mobile App,One-way,Leisure,Basic,1,717,62,779,38,Yes,22–45 days
+B00346,C0325,2025-09-02,2025-09-27,IST,RUH,IST-RUH,Mobile App,One-way,Leisure,Basic,1,856,96,952,25,Yes,22–45 days
+B00347,C0304,2025-12-04,2026-01-25,TBS,RUH,TBS-RUH,Website,One-way,Leisure,No membership,2,1304,138,1442,52,No,46–90 days
+B00348,C0321,2025-01-27,2025-03-26,DXB,RUH,DXB-RUH,Online Travel Agency,Return,Leisure,No membership,2,1011,238,1249,58,No,46–90 days
+B00349,C0186,2025-02-21,2025-04-11,CAI,JED,CAI-JED,Mobile App,One-way,Leisure,No membership,1,661,62,723,49,No,46–90 days
+B00350,C0215,2025-12-25,2026-01-19,RUH,JED,RUH-JED,Online Travel Agency,Return,Leisure,Basic,2,536,105,641,25,Yes,22–45 days
+B00351,C0140,2025-07-14,2025-08-22,DXB,RUH,DXB-RUH,Website,Return,Leisure,Basic,1,489,122,611,39,Yes,22–45 days
+B00352,C0030,2025-10-05,2025-11-14,IST,RUH,IST-RUH,Mobile App,One-way,Leisure,No membership,1,867,73,940,40,Yes,22–45 days
+B00353,C0062,2025-10-10,2025-10-11,JED,DMM,JED-DMM,Website,Return,Leisure,Silver,3,1236,219,1455,1,Yes,1–7 days
+B00354,C0186,2025-03-27,2025-06-14,JED,DMM,JED-DMM,Mobile App,One-way,Leisure,No membership,1,279,60,339,79,Yes,46–90 days
+B00355,C0310,2025-04-05,2025-04-11,TBS,RUH,TBS-RUH,Mobile App,Return,Leisure,Basic,3,2615,311,2926,6,Yes,1–7 days
+B00356,C0149,2025-01-08,2025-02-06,RUH,DXB,RUH-DXB,Website,One-way,Leisure,Basic,1,453,103,556,29,Yes,22–45 days
+B00357,C0224,2025-12-26,2026-03-25,IST,RUH,IST-RUH,Travel Agent,Return,Leisure,Basic,1,804,89,893,89,Yes,46–90 days
+B00358,C0139,2025-12-07,2026-01-07,IST,RUH,IST-RUH,Website,Return,Visiting friends and relatives,Basic,1,829,85,914,31,Yes,22–45 days
+B00359,C0196,2025-11-06,2026-01-22,JED,CAI,JED-CAI,Website,One-way,Leisure,No membership,1,623,122,745,77,No,46–90 days
+B00360,C0133,2025-04-15,2025-06-10,DMM,JED,DMM-JED,Website,One-way,Leisure,Basic,1,283,61,344,56,Yes,46–90 days
+B00361,C0174,2025-03-10,2025-03-31,RUH,IST,RUH-IST,Mobile App,One-way,Visiting friends and relatives,No membership,1,1008,117,1125,21,No,8–21 days
+B00362,C0228,2025-01-15,2025-04-04,JED,RUH,JED-RUH,Mobile App,Return,Visiting friends and relatives,Basic,2,515,233,748,79,Yes,46–90 days
+B00363,C0057,2025-05-10,2025-08-07,TBS,RUH,TBS-RUH,Mobile App,One-way,Leisure,No membership,4,2722,308,3030,89,Yes,46–90 days
+B00364,C0180,2025-08-04,2025-09-04,CAI,JED,CAI-JED,Mobile App,Return,Visiting friends and relatives,No membership,1,632,69,701,31,Yes,22–45 days
+B00365,C0198,2025-11-11,2026-01-10,IST,RUH,IST-RUH,Mobile App,Return,Visiting friends and relatives,Silver,1,844,160,1004,60,Yes,46–90 days
+B00366,C0238,2025-04-29,2025-07-15,RUH,JED,RUH-JED,Mobile App,Return,Leisure,Basic,1,243,86,329,77,Yes,46–90 days
+B00367,C0245,2025-02-07,2025-04-29,TBS,RUH,TBS-RUH,Website,Return,Leisure,No membership,1,720,63,783,81,No,46–90 days
+B00368,C0286,2025-09-15,2025-09-29,DXB,RUH,DXB-RUH,Website,Return,Visiting friends and relatives,Basic,1,545,103,648,14,Yes,8–21 days
+B00369,C0240,2025-05-23,2025-06-25,RUH,DXB,RUH-DXB,Mobile App,One-way,Leisure,No membership,2,948,124,1072,33,No,22–45 days
+B00370,C0328,2025-06-05,2025-06-17,TBS,RUH,TBS-RUH,Website,Return,Leisure,No membership,2,1578,118,1696,12,No,8–21 days
+B00371,C0157,2025-06-27,2025-07-05,IST,RUH,IST-RUH,Travel Agent,Return,Leisure,Silver,2,1872,266,2138,8,Yes,8–21 days
+B00372,C0330,2025-07-05,2025-08-09,DXB,RUH,DXB-RUH,Website,One-way,Visiting friends and relatives,Silver,3,1622,324,1946,35,Yes,22–45 days
+B00373,C0125,2025-02-18,2025-02-23,JED,RUH,JED-RUH,Mobile App,One-way,Leisure,Silver,1,349,132,481,5,Yes,1–7 days
+B00374,C0201,2025-11-07,2026-01-26,RUH,DXB,RUH-DXB,Mobile App,One-way,Business,Silver,4,1884,182,2066,80,Yes,46–90 days
+B00375,C0039,2025-08-12,2025-08-30,IST,RUH,IST-RUH,Online Travel Agency,One-way,Visiting friends and relatives,Basic,1,937,133,1070,18,Yes,8–21 days
+B00376,C0087,2025-08-14,2025-09-04,RUH,IST,RUH-IST,Website,One-way,Visiting friends and relatives,No membership,1,926,95,1021,21,Yes,8–21 days
+B00377,C0077,2025-11-30,2026-02-18,RUH,TBS,RUH-TBS,Online Travel Agency,One-way,Leisure,No membership,1,716,85,801,80,Yes,46–90 days
+B00378,C0171,2025-01-25,2025-04-23,RUH,DXB,RUH-DXB,Website,Return,Business,No membership,2,883,92,975,88,No,46–90 days
+B00379,C0052,2025-06-28,2025-09-01,CAI,JED,CAI-JED,Mobile App,One-way,Visiting friends and relatives,No membership,3,1816,401,2217,65,Yes,46–90 days
+B00380,C0160,2025-07-07,2025-07-08,JED,RUH,JED-RUH,Website,One-way,Business,No membership,1,352,35,387,1,Yes,1–7 days
+B00381,C0124,2025-05-06,2025-05-22,JED,RUH,JED-RUH,Mobile App,One-way,Leisure,No membership,3,877,324,1201,16,Yes,8–21 days
+B00382,C0027,2025-11-30,2026-02-27,JED,DMM,JED-DMM,Website,One-way,Leisure,No membership,3,917,261,1178,89,Yes,46–90 days
+B00383,C0087,2025-01-12,2025-01-14,RUH,TBS,RUH-TBS,Website,Return,Business,No membership,1,878,57,935,2,Yes,1–7 days
+B00384,C0211,2025-05-19,2025-07-29,TBS,RUH,TBS-RUH,Website,One-way,Visiting friends and relatives,Silver,2,1512,152,1664,71,Yes,46–90 days
+B00385,C0320,2025-04-05,2025-04-23,JED,CAI,JED-CAI,Website,Return,Leisure,No membership,2,1324,245,1569,18,Yes,8–21 days
+B00386,C0327,2025-05-22,2025-06-11,DXB,RUH,DXB-RUH,Website,Return,Leisure,Basic,1,524,79,603,20,Yes,8–21 days
+B00387,C0178,2025-05-17,2025-07-23,JED,RUH,JED-RUH,Website,One-way,Leisure,Basic,2,494,109,603,67,Yes,46–90 days
+B00388,C0055,2025-02-27,2025-04-09,JED,CAI,JED-CAI,Website,Return,Leisure,Gold,1,550,154,704,41,Yes,22–45 days
+B00389,C0275,2025-03-24,2025-05-09,RUH,JED,RUH-JED,Website,One-way,Leisure,No membership,2,478,138,616,46,No,46–90 days
+B00390,C0289,2025-12-05,2025-12-11,RUH,TBS,RUH-TBS,Online Travel Agency,One-way,Leisure,Gold,2,1838,276,2114,6,Yes,1–7 days
+B00391,C0198,2025-02-24,2025-03-27,RUH,TBS,RUH-TBS,Website,Return,Business,Silver,2,1328,118,1446,31,Yes,22–45 days
+B00392,C0321,2025-03-09,2025-05-29,JED,CAI,JED-CAI,Website,Return,Leisure,Basic,1,597,60,657,81,Yes,46–90 days
+B00393,C0124,2025-06-24,2025-06-26,DMM,JED,DMM-JED,Mobile App,One-way,Leisure,Basic,2,807,102,909,2,Yes,1–7 days
+B00394,C0051,2025-12-18,2025-12-25,JED,RUH,JED-RUH,Online Travel Agency,Return,Leisure,No membership,2,689,109,798,7,Yes,1–7 days
+B00395,C0300,2025-12-01,2026-02-27,JED,RUH,JED-RUH,Mobile App,One-way,Visiting friends and relatives,Basic,1,277,142,419,88,Yes,46–90 days
+B00396,C0069,2025-03-11,2025-04-04,JED,DMM,JED-DMM,Online Travel Agency,Return,Visiting friends and relatives,Basic,1,274,146,420,24,Yes,22–45 days
+B00397,C0094,2025-03-08,2025-06-03,JED,DMM,JED-DMM,Mobile App,One-way,Leisure,Silver,3,954,334,1288,87,Yes,46–90 days
+B00398,C0024,2025-03-03,2025-05-11,CAI,JED,CAI-JED,Mobile App,Return,Leisure,Basic,2,1236,171,1407,69,Yes,46–90 days
+B00399,C0060,2025-05-13,2025-06-03,JED,RUH,JED-RUH,Website,Return,Leisure,No membership,2,624,193,817,21,Yes,8–21 days
+B00400,C0307,2025-10-03,2025-11-27,TBS,RUH,TBS-RUH,Website,Return,Leisure,Basic,2,1539,207,1746,55,Yes,46–90 days
+B00401,C0001,2025-04-30,2025-06-14,DMM,JED,DMM-JED,Online Travel Agency,Return,Leisure,No membership,3,986,335,1321,45,Yes,22–45 days
+B00402,C0011,2025-04-20,2025-06-16,RUH,JED,RUH-JED,Mobile App,One-way,Business,No membership,1,267,70,337,57,Yes,46–90 days
+B00403,C0317,2025-12-16,2026-02-25,JED,RUH,JED-RUH,Mobile App,One-way,Leisure,Basic,2,526,186,712,71,Yes,46–90 days
+B00404,C0014,2025-07-01,2025-07-04,JED,CAI,JED-CAI,Online Travel Agency,One-way,Leisure,No membership,1,849,80,929,3,Yes,1–7 days
+B00405,C0162,2025-05-19,2025-08-14,JED,DMM,JED-DMM,Mobile App,Return,Business,No membership,1,314,58,372,87,Yes,46–90 days
+B00406,C0134,2025-04-08,2025-05-19,RUH,JED,RUH-JED,Mobile App,One-way,Visiting friends and relatives,Basic,2,471,137,608,41,Yes,22–45 days
+B00407,C0095,2025-01-02,2025-03-30,DMM,JED,DMM-JED,Website,One-way,Visiting friends and relatives,Basic,2,607,130,737,87,Yes,46–90 days
+B00408,C0312,2025-02-17,2025-03-23,RUH,TBS,RUH-TBS,Online Travel Agency,One-way,Leisure,Basic,2,1487,163,1650,34,Yes,22–45 days
+B00409,C0282,2025-08-22,2025-09-22,IST,RUH,IST-RUH,Website,Return,Leisure,Basic,2,1686,243,1929,31,Yes,22–45 days
+B00410,C0277,2025-11-22,2025-12-11,TBS,RUH,TBS-RUH,Mobile App,Return,Leisure,No membership,1,770,103,873,19,No,8–21 days
+B00411,C0040,2025-03-22,2025-05-09,RUH,JED,RUH-JED,Website,Return,Visiting friends and relatives,Silver,1,286,119,405,48,Yes,46–90 days
+B00412,C0042,2025-11-22,2026-01-28,DXB,RUH,DXB-RUH,Website,One-way,Visiting friends and relatives,No membership,2,960,247,1207,67,Yes,46–90 days
+B00413,C0077,2025-04-04,2025-06-07,DXB,RUH,DXB-RUH,Mobile App,One-way,Leisure,Basic,2,888,163,1051,64,Yes,46–90 days
+B00414,C0233,2025-09-21,2025-12-13,JED,RUH,JED-RUH,Website,Return,Visiting friends and relatives,Basic,1,255,119,374,83,Yes,46–90 days
+B00415,C0248,2025-02-27,2025-04-13,JED,RUH,JED-RUH,Online Travel Agency,Return,Business,Gold,1,255,48,303,45,Yes,22–45 days
+B00416,C0325,2025-06-17,2025-07-16,JED,DMM,JED-DMM,Travel Agent,Return,Leisure,No membership,2,676,127,803,29,No,22–45 days
+B00417,C0309,2025-11-27,2026-02-04,TBS,RUH,TBS-RUH,Online Travel Agency,Return,Visiting friends and relatives,No membership,3,2021,381,2402,69,Yes,46–90 days
+B00418,C0284,2025-01-28,2025-02-11,TBS,RUH,TBS-RUH,Mobile App,One-way,Business,No membership,3,2389,235,2624,14,No,8–21 days
+B00419,C0265,2025-06-03,2025-06-06,RUH,DXB,RUH-DXB,Online Travel Agency,Return,Visiting friends and relatives,Basic,1,601,111,712,3,Yes,1–7 days
+B00420,C0279,2025-06-05,2025-08-10,JED,CAI,JED-CAI,Online Travel Agency,One-way,Leisure,Basic,2,1217,112,1329,66,Yes,46–90 days
+B00421,C0159,2025-01-28,2025-02-17,RUH,JED,RUH-JED,Mobile App,Return,Business,Basic,1,320,69,389,20,Yes,8–21 days
+B00422,C0246,2025-10-25,2025-12-21,JED,DMM,JED-DMM,Online Travel Agency,One-way,Leisure,Basic,2,621,210,831,57,Yes,46–90 days
+B00423,C0280,2025-10-21,2025-12-15,DMM,JED,DMM-JED,Mobile App,Return,Leisure,Silver,1,276,90,366,55,Yes,46–90 days
+B00424,C0154,2025-01-27,2025-03-16,IST,RUH,IST-RUH,Website,One-way,Leisure,No membership,1,866,101,967,48,Yes,46–90 days
+B00425,C0028,2025-07-31,2025-08-03,TBS,RUH,TBS-RUH,Online Travel Agency,One-way,Visiting friends and relatives,No membership,1,1034,78,1112,3,Yes,1–7 days
+B00426,C0320,2025-11-17,2026-02-06,RUH,DXB,RUH-DXB,Online Travel Agency,One-way,Business,No membership,2,1051,78,1129,81,No,46–90 days
+B00427,C0157,2025-09-21,2025-11-18,CAI,JED,CAI-JED,Website,One-way,Leisure,Basic,1,671,128,799,58,Yes,46–90 days
+B00428,C0093,2025-06-02,2025-08-21,TBS,RUH,TBS-RUH,Mobile App,Return,Leisure,Basic,1,795,49,844,80,Yes,46–90 days
+B00429,C0126,2025-06-11,2025-08-23,RUH,DXB,RUH-DXB,Online Travel Agency,Return,Leisure,Gold,1,527,115,642,73,Yes,46–90 days
+B00430,C0173,2025-01-17,2025-03-31,DMM,JED,DMM-JED,Mobile App,Return,Leisure,Basic,1,295,62,357,73,Yes,46–90 days
+B00431,C0015,2025-02-04,2025-04-10,JED,DMM,JED-DMM,Online Travel Agency,Return,Leisure,No membership,1,291,91,382,65,Yes,46–90 days
+B00432,C0167,2025-12-12,2026-03-11,RUH,TBS,RUH-TBS,Mobile App,Return,Leisure,No membership,2,1344,126,1470,89,Yes,46–90 days
+B00433,C0158,2025-12-15,2026-01-09,TBS,RUH,TBS-RUH,Mobile App,One-way,Leisure,Basic,3,2076,275,2351,25,Yes,22–45 days
+B00434,C0046,2025-02-14,2025-02-22,JED,CAI,JED-CAI,Website,Return,Leisure,Basic,1,672,94,766,8,Yes,8–21 days
+B00435,C0195,2025-11-25,2026-02-20,DMM,JED,DMM-JED,Travel Agent,Return,Business,Silver,1,330,43,373,87,Yes,46–90 days
+B00436,C0237,2025-09-09,2025-10-28,IST,RUH,IST-RUH,Mobile App,Return,Visiting friends and relatives,No membership,1,778,130,908,49,No,46–90 days
+B00437,C0309,2025-10-24,2025-12-30,RUH,DXB,RUH-DXB,Mobile App,Return,Business,No membership,1,466,44,510,67,No,46–90 days
+B00438,C0266,2025-09-04,2025-11-22,DMM,JED,DMM-JED,Travel Agent,One-way,Leisure,No membership,1,305,94,399,79,Yes,46–90 days
+B00439,C0108,2025-03-15,2025-04-15,DXB,RUH,DXB-RUH,Website,One-way,Visiting friends and relatives,Basic,2,945,150,1095,31,Yes,22–45 days
+B00440,C0282,2025-01-20,2025-04-18,RUH,DXB,RUH-DXB,Online Travel Agency,Return,Leisure,Silver,1,528,103,631,88,Yes,46–90 days
+B00441,C0074,2025-09-22,2025-12-07,RUH,TBS,RUH-TBS,Mobile App,Return,Visiting friends and relatives,No membership,1,781,132,913,76,Yes,46–90 days
+B00442,C0026,2025-02-14,2025-03-11,JED,RUH,JED-RUH,Online Travel Agency,One-way,Business,No membership,2,571,168,739,25,Yes,22–45 days
+B00443,C0036,2025-08-21,2025-10-04,JED,RUH,JED-RUH,Online Travel Agency,One-way,Visiting friends and relatives,No membership,3,857,415,1272,44,Yes,22–45 days
+B00444,C0067,2025-02-17,2025-02-21,DMM,JED,DMM-JED,Website,One-way,Leisure,No membership,3,1120,222,1342,4,Yes,1–7 days
+B00445,C0107,2025-07-11,2025-07-20,CAI,JED,CAI-JED,Mobile App,Return,Leisure,No membership,1,725,48,773,9,Yes,8–21 days
+B00446,C0009,2025-10-28,2026-01-05,CAI,JED,CAI-JED,Website,Return,Leisure,No membership,3,1661,275,1936,69,Yes,46–90 days
+B00447,C0168,2025-03-21,2025-05-30,IST,RUH,IST-RUH,Website,One-way,Leisure,No membership,1,744,113,857,70,Yes,46–90 days
+B00448,C0135,2025-07-03,2025-07-14,TBS,RUH,TBS-RUH,Website,One-way,Leisure,Silver,2,1618,122,1740,11,Yes,8–21 days
+B00449,C0035,2025-05-10,2025-06-16,JED,DMM,JED-DMM,Website,Return,Leisure,Silver,1,269,132,401,37,Yes,22–45 days
+B00450,C0079,2025-08-13,2025-10-08,JED,DMM,JED-DMM,Website,One-way,Leisure,No membership,1,276,49,325,56,Yes,46–90 days
+B00451,C0225,2025-04-26,2025-05-02,JED,CAI,JED-CAI,Mobile App,Return,Business,Silver,1,835,88,923,6,Yes,1–7 days
+B00452,C0296,2025-12-29,2026-03-19,JED,DMM,JED-DMM,Travel Agent,One-way,Leisure,Basic,2,588,241,829,80,Yes,46–90 days
+B00453,C0130,2025-10-09,2025-12-24,RUH,IST,RUH-IST,Online Travel Agency,One-way,Business,Basic,1,762,84,846,76,Yes,46–90 days
+B00454,C0281,2025-02-27,2025-03-28,JED,RUH,JED-RUH,Mobile App,Return,Leisure,Basic,1,288,120,408,29,Yes,22–45 days
+B00455,C0104,2025-12-15,2026-01-16,RUH,DXB,RUH-DXB,Travel Agent,One-way,Business,No membership,1,545,66,611,32,Yes,22–45 days
+B00456,C0144,2025-03-20,2025-06-17,JED,CAI,JED-CAI,Website,Return,Leisure,No membership,1,593,121,714,89,Yes,46–90 days
+B00457,C0078,2025-12-31,2026-02-06,JED,RUH,JED-RUH,Travel Agent,One-way,Visiting friends and relatives,Gold,1,275,86,361,37,Yes,22–45 days
+B00458,C0162,2025-01-11,2025-03-15,JED,DMM,JED-DMM,Travel Agent,One-way,Business,Gold,2,667,200,867,63,Yes,46–90 days
+B00459,C0147,2025-05-24,2025-08-22,RUH,IST,RUH-IST,Website,Return,Leisure,Basic,1,732,101,833,90,Yes,46–90 days
+B00460,C0052,2025-06-14,2025-08-21,JED,DMM,JED-DMM,Website,Return,Visiting friends and relatives,Basic,1,315,68,383,68,Yes,46–90 days
+B00461,C0230,2025-07-05,2025-07-10,JED,RUH,JED-RUH,Website,One-way,Leisure,Basic,2,701,171,872,5,Yes,1–7 days
+B00462,C0278,2025-06-12,2025-07-11,RUH,IST,RUH-IST,Website,One-way,Leisure,Basic,1,864,91,955,29,Yes,22–45 days
+B00463,C0102,2025-11-19,2026-01-08,JED,DMM,JED-DMM,Website,One-way,Leisure,Silver,3,880,170,1050,50,Yes,46–90 days
+B00464,C0131,2025-02-19,2025-05-11,RUH,TBS,RUH-TBS,Mobile App,One-way,Business,No membership,1,757,85,842,81,Yes,46–90 days
+B00465,C0021,2025-10-10,2026-01-03,JED,DMM,JED-DMM,Website,One-way,Leisure,No membership,1,315,68,383,85,Yes,46–90 days
+B00466,C0154,2025-03-07,2025-04-13,JED,DMM,JED-DMM,Website,One-way,Leisure,Silver,3,870,403,1273,37,Yes,22–45 days
+B00467,C0109,2025-08-12,2025-10-06,RUH,DXB,RUH-DXB,Travel Agent,One-way,Leisure,No membership,4,1900,429,2329,55,Yes,46–90 days
+B00468,C0280,2025-05-16,2025-07-15,RUH,JED,RUH-JED,Online Travel Agency,One-way,Leisure,Silver,1,285,61,346,60,Yes,46–90 days
+B00469,C0286,2025-10-20,2025-10-23,RUH,IST,RUH-IST,Mobile App,Return,Leisure,Silver,2,2037,266,2303,3,Yes,1–7 days
+B00470,C0324,2025-03-17,2025-05-14,TBS,RUH,TBS-RUH,Website,Return,Leisure,Basic,2,1601,200,1801,58,Yes,46–90 days
+B00471,C0285,2025-03-04,2025-05-18,RUH,DXB,RUH-DXB,Website,Return,Visiting friends and relatives,Silver,1,540,78,618,75,Yes,46–90 days
+B00472,C0209,2025-04-15,2025-07-01,JED,DMM,JED-DMM,Mobile App,One-way,Visiting friends and relatives,No membership,2,515,133,648,77,No,46–90 days
+B00473,C0153,2025-10-01,2025-12-20,JED,CAI,JED-CAI,Online Travel Agency,One-way,Leisure,Basic,2,1352,228,1580,80,Yes,46–90 days
+B00474,C0012,2025-06-15,2025-09-12,JED,RUH,JED-RUH,Website,One-way,Leisure,Silver,2,567,164,731,89,Yes,46–90 days
+B00475,C0016,2025-12-12,2025-12-17,RUH,TBS,RUH-TBS,Website,Return,Leisure,Silver,1,1043,77,1120,5,Yes,1–7 days
+B00476,C0047,2025-07-30,2025-10-18,IST,RUH,IST-RUH,Website,One-way,Visiting friends and relatives,Basic,1,762,137,899,80,Yes,46–90 days
+B00477,C0223,2025-02-07,2025-03-10,RUH,JED,RUH-JED,Mobile App,One-way,Leisure,No membership,2,502,141,643,31,No,22–45 days
+B00478,C0265,2025-07-27,2025-09-13,CAI,JED,CAI-JED,Online Travel Agency,Return,Visiting friends and relatives,No membership,2,1328,301,1629,48,No,46–90 days
+B00479,C0044,2025-03-16,2025-04-22,DXB,RUH,DXB-RUH,Website,One-way,Leisure,No membership,2,985,225,1210,37,Yes,22–45 days
+B00480,C0272,2025-03-22,2025-06-04,DMM,JED,DMM-JED,Mobile App,Return,Visiting friends and relatives,No membership,1,319,117,436,74,Yes,46–90 days
+B00481,C0144,2025-07-12,2025-07-27,JED,DMM,JED-DMM,Website,One-way,Business,No membership,1,338,48,386,15,Yes,8–21 days
+B00482,C0127,2025-12-23,2026-02-07,JED,DMM,JED-DMM,Travel Agent,One-way,Business,Silver,1,319,89,408,46,Yes,46–90 days
+B00483,C0094,2025-06-30,2025-09-07,TBS,RUH,TBS-RUH,Website,Return,Visiting friends and relatives,No membership,2,1596,122,1718,69,Yes,46–90 days
+B00484,C0045,2025-09-05,2025-11-05,RUH,TBS,RUH-TBS,Mobile App,One-way,Leisure,No membership,1,800,51,851,61,Yes,46–90 days
+B00485,C0085,2025-09-22,2025-11-02,JED,RUH,JED-RUH,Online Travel Agency,One-way,Leisure,Basic,2,513,160,673,41,Yes,22–45 days
+B00486,C0078,2025-02-28,2025-04-07,TBS,RUH,TBS-RUH,Travel Agent,One-way,Visiting friends and relatives,Silver,2,1560,263,1823,38,Yes,22–45 days
+B00487,C0028,2025-09-04,2025-10-04,DXB,RUH,DXB-RUH,Online Travel Agency,Return,Leisure,Basic,1,460,54,514,30,Yes,22–45 days
+B00488,C0065,2025-02-04,2025-02-18,RUH,DXB,RUH-DXB,Website,Return,Leisure,No membership,1,511,126,637,14,Yes,8–21 days
+B00489,C0049,2025-06-10,2025-07-12,RUH,TBS,RUH-TBS,Online Travel Agency,Return,Leisure,Basic,1,780,72,852,32,Yes,22–45 days
+B00490,C0074,2025-01-18,2025-01-31,TBS,RUH,TBS-RUH,Mobile App,Return,Leisure,Silver,1,906,111,1017,13,Yes,8–21 days
+B00491,C0097,2025-04-29,2025-05-30,DMM,JED,DMM-JED,Mobile App,Return,Leisure,Basic,1,283,91,374,31,Yes,22–45 days
+B00492,C0076,2025-09-29,2025-12-12,JED,RUH,JED-RUH,Mobile App,One-way,Leisure,Basic,2,492,120,612,74,Yes,46–90 days
+B00493,C0078,2025-10-17,2025-11-04,CAI,JED,CAI-JED,Online Travel Agency,One-way,Leisure,Basic,4,2768,307,3075,18,Yes,8–21 days
+B00494,C0057,2025-05-30,2025-08-23,JED,RUH,JED-RUH,Online Travel Agency,One-way,Visiting friends and relatives,Basic,3,805,348,1153,85,Yes,46–90 days
+B00495,C0239,2025-11-06,2025-11-25,TBS,RUH,TBS-RUH,Website,Return,Leisure,No membership,2,1719,173,1892,19,No,8–21 days
+B00496,C0277,2025-12-25,2026-01-12,DXB,RUH,DXB-RUH,Mobile App,Return,Visiting friends and relatives,Silver,1,542,104,646,18,Yes,8–21 days
+B00497,C0137,2025-12-27,2026-01-22,RUH,DXB,RUH-DXB,Website,One-way,Leisure,Basic,2,1020,219,1239,26,Yes,22–45 days
+B00498,C0254,2025-12-03,2026-02-16,DMM,JED,DMM-JED,Online Travel Agency,One-way,Leisure,Basic,1,278,118,396,75,Yes,46–90 days
+B00499,C0045,2025-04-18,2025-06-24,JED,DMM,JED-DMM,Website,Return,Visiting friends and relatives,Silver,2,638,172,810,67,Yes,46–90 days
+B00500,C0209,2025-02-03,2025-02-11,DMM,JED,DMM-JED,Website,Return,Leisure,Basic,1,331,59,390,8,Yes,8–21 days
